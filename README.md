@@ -12,7 +12,6 @@ prev:
 - hong kong national kendo team
 - 2x hackathon winner (best hardware @ lahacks 2026, 1st overall @ whopathon)
 
-check out my passion project: try-tara.com
 
 
 
