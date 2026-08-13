@@ -10,7 +10,7 @@ prev:
 - engineering intern @ anto biosciences (yc f25)
 - material science researcher @ okuro lab, hku. investigating biodegradability + mechanical strength of hydrogel
 - hong kong national kendo team
-- 2x hackathon winner ([best hardware @ lahacks 2026]([url](https://devpost.com/software/bridge-4euwyt)), [1st overall @ whopathon]([url](https://try-tara.com/)))
+- 2x hackathon winner ([best hardware @ lahacks 2026](https://devpost.com/software/bridge-4euwyt), [1st overall @ whopathon](https://try-tara.com/))
 
 
 
