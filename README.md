@@ -1,6 +1,6 @@
 hi! my name is doyoon (daniel) kim but you could also call me by my initials DK
 
-applied math + comp. bio @ ucla -> cs + stats @ uchicago
+computational biology @ ucla -> cs + stats @ uchicago
 
 current: 
 - 2x hackathon winner ([best hardware @ lahacks 2026](https://devpost.com/software/bridge-4euwyt), [1st overall @ whopathon](https://try-tara.com/))
