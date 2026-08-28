@@ -1,4 +1,4 @@
-hi! my name is doyoon (daniel) kim but you could also call me by my initials DK
+hi! my name is doyoon (daniel) kim
 
 computational biology @ ucla -> cs + stats @ uchicago
 
