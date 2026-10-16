@@ -1,6 +1,6 @@
 hi! my name is doyoon (daniel) kim
 
-computational biology @ ucla -> cs + stats @ uchicago
+cs + stats @ uchicago
 
 current: 
 - 2x hackathon winner ([best hardware @ lahacks 2026](https://devpost.com/software/bridge-4euwyt), [1st overall @ whopathon](https://try-tara.com/))
